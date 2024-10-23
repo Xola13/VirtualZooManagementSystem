@@ -3,7 +3,7 @@ name: CI/CD Pipeline
 on:
   push:
     branches:
-      - main
+      - Xola13-patch-1
   pull_request:
     branches:
       - main
