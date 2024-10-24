@@ -166,7 +166,7 @@ namespace VirtualZooManagementSystem
 				}
 				catch 
 				{
-					Console.WriteLine($"Error feeding {animal.GetType().Name}: {ex.Message}");
+					Console.WriteLine($"Error feeding {animal.GetType().Name}: with your specific food");
 				}
 
 			}
